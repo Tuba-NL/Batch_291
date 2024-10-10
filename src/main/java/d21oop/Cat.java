@@ -6,6 +6,7 @@ public class Cat extends Mammal {
 
         //Herkes Cat class’ta feedWithMilk() methodunu override etsin?
     }
+
     @Override
     public void feedWithMilk() {
         System.out.println("Cats feed their babies with milk,,,,");
